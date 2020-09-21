@@ -1,12 +1,15 @@
 ### Olá Visitante 👋
 
-Meu nome é Fernando! Eu sou Analista e Desenvolvedor de Sistemas. Vem conhecer um pouco de mim :smiley:
+Meu nome é Fernando! Vem conhecer um pouco de mim :smiley:
+
+Eu sou Analista e Desenvolvedor de Sistemas e amo encontrar soluções para problemas.
+Backend :heart:
 
 :sunglasses: Possuo algumas Skills com Java, WebServices, HTML5, CSS3 e SQL.
 
-:rocket: Atualmente estou focando os estudos em: Javascript, Node.js e ReactJS.
+:rocket: Atualmente estou focando os estudos em Javascript, Node.js e ReactJS.
 
-:construction: Pretendo aprender: TypeScript, React Native e Vue.js.
+:construction: Pretendo aprender TypeScript, React Native e Vue.js.
 
 Precisa entrar em contato? É só chamar em minhas redes sociais😄
 
