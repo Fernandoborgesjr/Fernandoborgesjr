@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá Visitante 👋
+
+Meu nome é Fernando! Eu sou Analista e Desenvolvedor de Sistemas.
+
+Skills: Java, WebServices, HTML5, CSS3 e SQL.
+
+Estudando atualmente: Javascript, Node.js e ReactJS.
+
+Pretendo aprender: TypeScript, React Native e Vue.js.
+
+Precisa entrar em contato? É só chamar em minhas redes sociais😄:
 
 <!--
 **Fernandoborgesjr/Fernandoborgesjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
