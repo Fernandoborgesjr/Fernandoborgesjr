@@ -1,12 +1,12 @@
 ### Olá Visitante 👋
 
-Meu nome é Fernando! Eu sou Analista e Desenvolvedor de Sistemas.
+Meu nome é Fernando! Eu sou Analista e Desenvolvedor de Sistemas. Vem conhecer um pouco de mim :smiley:
 
-Skills: Java, WebServices, HTML5, CSS3 e SQL.
+:sunglasses: Skills: Java, WebServices, HTML5, CSS3 e SQL.
 
-Estudando atualmente: Javascript, Node.js e ReactJS.
+:rocket: Estudando atualmente: Javascript, Node.js e ReactJS.
 
-Pretendo aprender: TypeScript, React Native e Vue.js.
+:construction: Pretendo aprender: TypeScript, React Native e Vue.js.
 
 Precisa entrar em contato? É só chamar em minhas redes sociais😄:
 
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://gist.github.com/rxaviers/7360908
 -->
