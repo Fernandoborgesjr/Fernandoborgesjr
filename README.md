@@ -1,4 +1,4 @@
-### Olá Visitante 👋
+## Olá Visitante 👋
 
 Meu nome é Fernando! Vem conhecer um pouco de mim :smiley:
 
@@ -7,7 +7,7 @@ Eu sou Analista e Desenvolvedor de Sistemas e amo encontrar soluções para prob
 
 :sunglasses: Possuo algumas Skills com Java, WebServices, HTML5, CSS3 e SQL.
 
-:rocket: Atualmente estou focando os estudos em Javascript, Node.js e ReactJS.
+:rocket: Atualmente estou focando os estudos em Javascript, Node.js, ReactJS e também em Design Patterns.
 
 :construction: Pretendo aprender TypeScript, React Native, AWS e Vue.js.
 
