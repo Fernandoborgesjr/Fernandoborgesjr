@@ -9,7 +9,7 @@ Eu sou Analista e Desenvolvedor de Sistemas e amo encontrar soluções para prob
 
 :rocket: Atualmente estou focando os estudos em Javascript, Node.js e ReactJS.
 
-:construction: Pretendo aprender TypeScript, React Native e Vue.js.
+:construction: Pretendo aprender TypeScript, React Native, AWS e Vue.js.
 
 Precisa entrar em contato? É só chamar em minhas redes sociais😄
 
